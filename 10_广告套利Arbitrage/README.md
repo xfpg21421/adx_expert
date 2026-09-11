@@ -27,14 +27,14 @@
 
 ## 文档清单
 
-- [ ] `套利模式总览与分类.md` —— 套利的本质（**信息差 + 定价差 + 流量质量差**）；六大流派分类图谱（信息流 / 搜索 / 展示 / 联盟 / 域名 / 新兴）；各流派的毛利结构与生命周期
-- [ ] `信息流套利-Taboola-Outbrain.md` —— Native Ads 买量 + Advertorial 落地页 + 变现出口（AdSense / 联盟 / 自营）的完整链路；主要玩家与流量质量；出价与 EPC 的平衡
-- [ ] `搜索套利与域名停放.md` —— RSOC / AFD（AdSense for Domains / Search Ads for Domains）机制、Parking 平台（Sedo / Bodis / ParkingCrew）、关键词买量到搜索页的套利链路
-- [ ] `AdSense套利与MFA站.md` —— MFA（Made For AdSense）的形态与经济学、Google 的识别与处罚机制、"套利与 MFA 的边界在哪"、行业声誉与长期风险（**风险认知向**）
-- [ ] `Prebid与HeaderBidding套利.md` —— **卖方侧套利**：多 SSP 竞价提升 eCPM；Bid Caching / Reselling / 供应链套利；买方视角的识别与 SPO 应对
-- [ ] `联盟套利漏斗.md` —— 买量（FB / TikTok / Native / Push）→ Pre-lander → Offer 转化的经典漏斗；Push 与 Pop 流量套利；各流量源的成本与质量对照
-- [ ] `套利单位经济与毛利模型.md` —— 通用毛利公式与敏感性分析；盈亏平衡 CTR/CVR 反推；规模化后的边际变化；资金周转与结算周期对现金流的影响
-- [ ] `套利风险-平台封禁与合规.md` —— 平台政策风险（Google / Meta 封号逻辑）、合规风险（虚假宣称、隐私）、流量源风险（扣量、质量下滑）、退出不确定性；行业周期性
+- [x] `套利模式总览与分类.md` —— 套利的本质（**信息差 + 定价差 + 流量质量差 + 平台补贴**四类因子）；六大流派分类图谱；各流派的毛利结构与生命周期；**5 问分析框架的可执行清单**；alpha 衰减模型
+- [x] `信息流套利-Taboola-Outbrain.md` —— Native Ads 买量 + Advertorial 落地页 + 变现出口（AdSense / 联盟 / 自营）的完整链路；主要玩家与流量质量；出价与 EPC 的平衡
+- [x] `搜索套利与域名停放.md` —— RSOC / AFD（AdSense for Domains / Search Ads for Domains）机制、Parking 平台（Sedo / Bodis / ParkingCrew）、关键词买量到搜索页的套利链路；域名组合期望值
+- [x] `AdSense套利与MFA站.md` —— MFA（Made For AdSense）的形态与经济学、Google 的识别与处罚机制、**"套利与 MFA 的边界"三条判据**、行业声誉与长期风险（**风险认知向**）
+- [x] `Prebid与HeaderBidding套利.md` —— **卖方侧套利**：多 SSP 竞价提升 eCPM；Bid Caching / Reselling / 供应链套利；买方视角的识别与 SPO 应对；透明度三件套（ads.txt / sellers.json / schain）
+- [x] `联盟套利漏斗.md` —— 买量（FB / TikTok / Native / Push）→ Pre-lander → Offer 转化的经典漏斗；Push 与 Pop 流量套利；流量源 × Offer 品类匹配矩阵；多 Offer 组合优化
+- [x] `套利单位经济与毛利模型.md` —— 通用毛利公式与敏感性分析；**容错空间解析式**；盈亏平衡反推与矩阵；规模化三重挤压；资金周转与结算周期对现金流的影响
+- [x] `套利风险-平台封禁与合规.md` —— 风险二维分类学（可观测性 × 损失形态）、平台封号逻辑、**期望值放弃判据 `p×(1+k)>1`**、合规风险、仓位纪律、退出与转型路径
 - [ ] `套利案例拆解/` —— 公开可查的套利案例、账户结构、毛利拆解
 
 **建议顺序**：套利模式总览与分类 → 套利单位经济与毛利模型 → 信息流套利 → 套利风险（先分类，再算账，再看最大流派，最后评估风险）→ Prebid套利 → 搜索套利 → 联盟套利 → MFA
