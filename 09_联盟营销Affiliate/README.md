@@ -10,17 +10,17 @@
 
 ## 文档清单
 
-- [ ] `Affiliate体系总览.md` —— 三方/四方模型（Merchant – Affiliate – Network – Consumer）；与程序化广告、Ad Network 的**本质区别**；生态规模与主要形态
-- [ ] `联盟角色与佣金模型.md` —— CPS / CPA / CPL / CPI / CPC 佣金结构、Recurring Commission（订阅分成）、Tiered / 二级分销、**Cookie Duration（联盟窗口期）如何决定收益**
-- [ ] `主流联盟网络盘点.md` —— CJ / Impact / ShareASale（Awin）/ Rakuten / FlexOffers / PartnerStack / Tradedoubler / Pepperjam：类目优势、准入门槛、结算周期与门槛、EPC 数据透明度
-- [ ] `CPA网络与Offer市场.md` —— CPA 网络运作机制、Offer 类型（Nutra / Sweepstakes / Finance / App Install / Lead Gen）、Payout 与 Cap、Exclusive 的概念、Offer 质量评估
-- [ ] `电商Affiliate与亚马逊联盟.md` —— Amazon Associates 佣金结构变化史、Alternatives（Awin / Impact 上的品牌计划）、比价与优惠券站、内容测评站模式
-- [ ] `联盟追踪技术与Postback.md` —— 联盟链接结构（Affiliate ID / Sub ID / Click ID）、跳转与 Cookie 写入、**Server Postback（S2S）流程**、Pixel 回传、追踪丢单排查
-- [ ] `落地页与转化漏斗设计.md` —— Pre-lander / Lander / Bridge Page 的作用与合规边界、漏斗各步转化率基准、Advertorial 形态、合规红线（虚假宣称）
-- [ ] `Niche站与内容站变现.md` —— 选品与选关键词、SEO 与内容生产、Affiliate 链接布局、内容与广告位组合收益模型、Google 算法更新（HCU）对内容站的冲击
-- [ ] `邮件营销与私域List.md` —— List Building 机制、Lead Magnet、ESP 选择与送达率、邮件合规（CAN-SPAM / GDPR）、List 的资产属性与估值
-- [ ] `联盟反作弊与扣量.md` —— 联盟侧作弊形态（Cookie Stuffing / Brand Bidding / 优惠券劫持 / 归因抢占）与商家侧扣量（Shaving）；双方博弈与检测手段
-- [ ] `Affiliate单位经济与规模化.md` —— 从个人到团队的规模化路径；买量型 Affiliate 的毛利模型；人力 / 工具 / 流量成本结构；规模化后的边际收益递减
+- [x] `Affiliate体系总览.md` —— 三方/四方模型（Merchant – Affiliate – Network – Consumer）；与程序化广告、Ad Network 的**本质区别**；生态规模与主要形态
+- [x] `联盟角色与佣金模型.md` —— CPS / CPA / CPL / CPI / CPC 佣金结构、Recurring Commission（订阅分成）、Tiered / 二级分销、**Cookie Duration（联盟窗口期）如何决定收益**
+- [x] `主流联盟网络盘点.md` —— CJ / Impact / ShareASale（Awin）/ Rakuten / FlexOffers / PartnerStack / Tradedoubler / Pepperjam：类目优势、准入门槛、结算周期与门槛、EPC 数据透明度
+- [x] `CPA网络与Offer市场.md` —— CPA 网络运作机制、Offer 类型（Nutra / Sweepstakes / Finance / App Install / Lead Gen）、Payout 与 Cap、Exclusive 的概念、Offer 质量评估
+- [x] `电商Affiliate与亚马逊联盟.md` —— Amazon Associates 佣金结构变化史、Alternatives（Awin / Impact 上的品牌计划）、比价与优惠券站、内容测评站模式
+- [x] `联盟追踪技术与Postback.md` —— 联盟链接结构（Affiliate ID / Sub ID / Click ID）、跳转与 Cookie 写入、**Server Postback（S2S）流程**、Pixel 回传、追踪丢单排查
+- [x] `落地页与转化漏斗设计.md` —— Pre-lander / Lander / Bridge Page 的作用与合规边界、漏斗各步转化率基准、Advertorial 形态、合规红线（虚假宣称）
+- [x] `Niche站与内容站变现.md` —— 选品与选关键词、SEO 与内容生产、Affiliate 链接布局、内容与广告位组合收益模型、Google 算法更新（HCU）对内容站的冲击
+- [x] `邮件营销与私域List.md` —— List Building 机制、Lead Magnet、ESP 选择与送达率、邮件合规（CAN-SPAM / GDPR）、List 的资产属性与估值
+- [x] `联盟反作弊与扣量.md` —— 联盟侧作弊形态（Cookie Stuffing / Brand Bidding / 优惠券劫持 / 归因抢占）与商家侧扣量（Shaving）；双方博弈与检测手段
+- [x] `Affiliate单位经济与规模化.md` —— 从个人到团队的规模化路径；买量型 Affiliate 的毛利模型；人力 / 工具 / 流量成本结构；规模化后的边际收益递减
 - [ ] `联盟案例拆解/` —— 具体联盟玩家、Offer、站群的拆解，命名 `YYYYMMDD_案例名.md`
 
 **建议顺序**：Affiliate体系总览 → 联盟角色与佣金模型 → 联盟追踪技术与Postback → 主流联盟网络盘点（先分清概念与佣金逻辑，再打通追踪技术，最后盘点网络）→ CPA网络 → 落地页漏斗 → Niche站 → 单位经济
